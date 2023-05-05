@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Gautam Ahuja",
+  "author": "Akul Arora",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": -45.04, "left": -35.7, "attrs": {} },
